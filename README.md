@@ -1,8 +1,7 @@
 # Ventura08
 
 <div>
-    <h2>Estevão aqui</h2>
-    <h3>Blz?</h3>
+    <h2>Estevão aqui, blz?</h2>
   </div>
   <div align="center">
     <a href="https://github.com/Ventura08">
