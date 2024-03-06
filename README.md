@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=31A9EC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31A9EC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Estevão+Boaventura;I'm+20+years+old;I'm+from+Brazil;I+Graduated+Software+development+and+systems+analysis+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=31A9EC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Estevão+Boaventura;)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hello I'm Estevão, a software developer with more than 3 years of experience working with various technologies. My main expertise lies on | Javascript - Typescript - NextJS - ReactJS - NodeJS - Python - Django - PHP - Laravel |
